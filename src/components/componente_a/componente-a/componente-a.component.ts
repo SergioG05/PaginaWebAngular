@@ -13,16 +13,9 @@ export class ComponenteAComponent implements OnInit {
   ngOnInit(): void {
   }
   
-navegacion1()
+navPag2()
 {
   this.router.navigate(['Pagina2'])
 }
-
-navegacion2()
-{
-  this.router.navigate(['Pagina3'])
-}
-
-
 
 }

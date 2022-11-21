@@ -14,7 +14,7 @@ export class ComponenteBComponent implements OnInit {
   }
 
 
-navegacionCasa(){
+navegacionInicio(){
   this.router.navigate([''])
 }
 
