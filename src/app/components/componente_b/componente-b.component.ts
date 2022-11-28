@@ -17,6 +17,9 @@ export class ComponenteBComponent implements OnInit {
 navegacionInicio(){
   this.router.navigate([''])
 }
+nav3(){
+  this.router.navigate(['Pagina3'])
+}
 
 
 
